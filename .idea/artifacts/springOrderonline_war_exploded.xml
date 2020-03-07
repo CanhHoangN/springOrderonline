@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="springOrderonline:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/springOrderonline_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="springOrderonline/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="springOrderonline" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
